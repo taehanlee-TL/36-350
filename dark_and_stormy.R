@@ -1,1 +1,1 @@
-print("https://raw.githubusercontent.com/taehanlee-TL/36-350/main/dark_and_stormy.R")
+print("It was a dark and stormy night; the rain fell in torrents.")
